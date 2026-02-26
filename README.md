@@ -34,6 +34,14 @@ A simple CLI-based Space Invaders game written in Go.
 - HP: Displays current health points (starts at 3)
 - Screen flashes red when hit by alien bullets
 
+### Screenshots
+
+![Board size selection](<assets/Board size selection.png>)
+
+![Difficulty selection](<assets/Difficulty selection.png>)
+
+![Gameplay](<assets/Gameplay.png>)
+
 ## Building and Running
 
 ```bash

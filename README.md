@@ -1,7 +1,5 @@
 # invader-cli
 
-### Screenshots
-
 ![Board size selection](<assets/Board size selection.png>)
 
 ![Difficulty selection](<assets/Difficulty selection.png>)
